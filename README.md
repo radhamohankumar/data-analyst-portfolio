@@ -20,7 +20,7 @@ I am currently building real-world data analysis projects to strengthen my analy
 
 - **Languages:** Python (Pandas, NumPy, Matplotlib), SQL  
 - **Visualization:** Power BI, Tableau  
-- **Tools:** Excel, Jupyter Notebook  
+- **Tools:** Advance Excel, Jupyter Notebook, Onedrive  
 - **Database:** MySQL  
 - **Other:** Data Cleaning, Data Visualization, EDA
 
@@ -29,65 +29,85 @@ I am currently building real-world data analysis projects to strengthen my analy
 ## 📊 Featured Projects
 
 ### 1️⃣ India RMA Data Analysis
-#### 🛠   Tools Used : Excel | Power BI | Power Query | DAX
-####    Problem:
+#### 🛠 Tools Used : Excel | Power BI | Power Query | Data Cleaning & Visualization
+#### 🔍 Problem:
 RMA testing data across India lacked centralized analysis for performance tracking and business decisions.
-####    Process:
+####   Process:
       -Data Collection from PAN India sources
-      -Data Cleaning using Power Query
-      -KPI Identification
-      -Dashboard Development in Power BI
-      -Identified failure trends across device models
-      -Improved turnaround time visibility
-      -Enabled management-level decision making
-      -Provided structured insights for business optimization and performance monitoring.
+      -Cleaned and transformed raw datasets using Power Query
+      -Standardized data formats for consistency and accuracy
+      -KPIs for performance measurement
+      -Developed interactive dashboards in Power BI
+      -Performed failure trend analysis across device models and regions
+#### 📊 Key Insights & Impact
+      -Identified high-failure device models contributing to increased RMA volume
+      -Improved turnaround time (TAT) visibility across regions
+      -Enabled real-time performance monitoring
+      -Supported management-level strategic decision making
+      -Provided structured insights for operational optimization
 ---
 
 ### 2️⃣ Global RMA Progress Report Analysis
-#### 🛠   Tools Used : Excel | Power BI | Power Query | DAX
-      -Consolidated multi-region RMA data
-      -Cleaned & standardized datasets
+#### 🛠 Tools Used : Excel | Power BI | Power Query | DAX
+#### 🔄 Project Overview
+      -Consolidated multi-region RMA operational data into a centralized reporting structure
+      -Cleaned, transformed, and standardized datasets using Power Query
       -Created KPI metrics (TAT, SLA %, backlog)
-      -Built interactive dashboards
+      -Designed interactive dashboards in Power BI for real-time monitoring
       -Performed trend & variance analysis  
-#### 📊   Key Insights
+#### 📊 Key Insights & Impact
       -Identified delay patterns across regions
       -Highlighted top 5 models with longest repair cycle
       -Stakeholder reporting
-      -Cross-functional collaboration
+      -Supported cross-functional collaboration between operations and management
       -Data-driven decision support
 ---
       
-### 3️⃣ Pan India BSNL R&R Report Dashbord
-#### 🛠   Tools Used : Excel | Power Query
-    - Built interactive dashboard  
-    - KPI tracking and trend insights  
-    - Business performance visualization
+### 3️⃣ BSNL R&R Report Dashbord
+#### 🛠 Tools Used : Advanced Excel | Pivot Tables | Pivot Charts | Power Query | Slicers | Conditional Formatting | KPI Cards
+#### 🔍 Business Problem
+R&R operational data was maintained in raw Excel sheets without centralized KPI tracking. This limited visibility into Faulty, NFF, and RNP performance across circles.
+
+#### 🎯 Objective : To develop an interactive Excel dashboard for:
+      -Circle-wise performance tracking
+      -Month-wise trend analysis
+      -KPI monitoring (Faulty, NFF, RNP)
+      -Operational performance insights
+      -Built interactive dashboard  
+      -Business performance visualization
+#### 🔄 Process
+      -Cleaned and structured raw R&R data
+      -Created pivot tables for aggregation
+      -Designed dynamic charts
+      -Implemented slicers for Circle filtering
+      -Built KPI summary section
+#### 📊 Key Insights & Impact
+      -Total Cases: 961, Faulty Cases: 818, NFF Cases: 92, RNP Cases: 51, Identified high-fault circles
+      -Month-wise performance trends analyzed
+      -Centralized performance tracking
+      -Reduced manual reporting effort
+      -Enabled management-level visibility
+      -Improved operational monitoring
 ---
 
 ### 4️⃣ Microwave Equipment Performance Analysis
-#### 🛠   Tools Used : Excel | Documentation Systems
+#### 🛠 Tools Used : Excel | Documentation Systems
 #### Scope:
-Testing and analyzing performance of:
--	IP-20C, IP-20S, IP-50E, IP-50CX
--	RFU-C, IP-20N Series
+      Testing and analyzing performance of:
+      IP-20C, IP-20S, IP-50E, IP-50CX,RFU-C, IP-20N Series
 #### Responsibilities:
--	Performance validation
--	Compliance testing
--	Documentation of results
--	Fault analysis and troubleshooting
-#### Business Impact:
--     Improved device reliability tracking and testing standardization
-
-
+      -Performance validation
+      -Compliance testing
+      -Documentation of results
+      -Fault analysis and troubleshooting
+#### 📊 Business Impact:
+      -Improved device reliability tracking and testing standardization
 ---
 
 ## 📈 Currently Learning
-
-- Advanced SQL  
-- Data Modeling  
-- Statistics for Data Analysis  
-
+      - Advanced SQL  
+      - Data Modeling  
+      - Statistics for Data Analysis  
 ---
 
 ## 📫 Contact Me
